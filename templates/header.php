@@ -9,15 +9,19 @@
 
     <style type="text/css">
         .brand {
-            background: #cbb09c !important;
+            background: #780808 !important;
         }
         .brand-text{
-            color: #cbb09c !important;
+            /**color: #cbb09c !important;**/
+            color: #780808   !important;
         }
         form {
             max-width: 460px;
             margin: 20px auto;
             padding: 20px;
+        }
+        label {
+            color: black;
         }
     </style>
 </head>

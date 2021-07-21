@@ -1,6 +1,5 @@
-<?php
-
-
+<?php 
+include('main.php'); 
 ?>
 
 <!DOCTYPE html>
@@ -8,9 +7,9 @@
 
     <?php include('templates/header.php'); ?>
 
-    <section class="container grey-text">
+    <section class="container ">
         <h4 class="center">Add a Product</h4>
-        <form class="white" action="" method="">
+        <form class="white" action="add.php" method="POST">
             <label>Your Email:</label>
             <input type="text" name="email">
             <label>Product Name:</label>

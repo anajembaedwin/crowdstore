@@ -1,6 +1,5 @@
-<?php
-
-
+<?php 
+require('main.php'); 
 ?>
 
 <!DOCTYPE html>

@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 
 ?>
@@ -8,7 +8,7 @@
 
     <?php include('templates/header.php'); ?>
 
-    <section class="container grey-text">
+    <section class="container ">
         <h4 class="center">Sign-Up</h4>
         <form class="white" action="" method="">
             <label>Your Email:</label>
@@ -23,6 +23,7 @@
                 <input type="submit" name="submit" value="submit" class="btn brand z-depth-0">
             </div>
         </form>
+        <p class="center">If you are already a member, you can just <a href="login.php">login</a> here.</p>
     </section>
 
     <?php include('templates/footer.php'); ?>

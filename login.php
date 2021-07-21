@@ -1,5 +1,6 @@
-<?php
+<?php 
 
+include('templates/main.php');
 
 ?>
 
@@ -10,7 +11,7 @@
 
     <section class="container ">
         <h4 class="center">Login</h4>
-        <form class="white" action="" method="">
+        <form class="white" action="login.php" method="POST">
             <label>Your Email:</label>
             <input type="text" name="email">
             <label>Password:</label>
@@ -18,7 +19,7 @@
             <br>
             <br>
             <div class="center">
-                <input type="submit" name="submit" value="submit" class="btn brand z-depth-0">
+                <input type="submit" name="submit" value="login" class="btn brand z-depth-0">
             </div>
         </form>
         <p class="center">If you are not a member, you can <a href="signup.php">signup</a> here.</p>

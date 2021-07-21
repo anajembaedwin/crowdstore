@@ -1,5 +1,5 @@
 <?php 
-include('main.php'); 
+include('templates/main.php'); 
 ?>
 
 <!DOCTYPE html>

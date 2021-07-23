@@ -1,5 +1,7 @@
-<?php 
-include('templates/main.php'); 
+<?php
+
+include('templates/main.php');
+ 
 ?>
 
 <!DOCTYPE html>

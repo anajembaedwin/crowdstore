@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-include('templates/main.php');
+require('templates/main.php');
 
 ?>
 
@@ -19,7 +19,7 @@ include('templates/main.php');
             <br>
             <br>
             <div class="center">
-                <input type="submit" name="submit" value="login" class="btn brand z-depth-0">
+                <input type="submit" name="login" value="login" class="btn brand z-depth-0">
             </div>
         </form>
         <p class="center">If you are not a member, you can <a href="signup.php">signup</a> here.</p>

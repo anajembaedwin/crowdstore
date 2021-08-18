@@ -1,13 +1,13 @@
 # crowdstore
  A market place program that uses mySQL to store user’s data and allows registration and user updates.
 
- User can register
+ Users can register
 
- User can login
+ Users can login
 
- User can logout
+ Users can logout
  
- User can reset password
+ Users can reset password
  
  Users will have a dashboard
  

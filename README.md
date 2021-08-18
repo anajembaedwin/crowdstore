@@ -19,4 +19,4 @@
  
  Users will be able to delete items owned by them
  
- Users will able to see listings of all items and prices owned by them and other users but will not be able to take any action
+ Users will be able to see listings of all items and prices owned by them and other users but will not be able to take any action
